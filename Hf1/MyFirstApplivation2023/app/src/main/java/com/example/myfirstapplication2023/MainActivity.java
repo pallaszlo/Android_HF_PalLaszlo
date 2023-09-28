@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(MainActivity.this, "Valami", Toast.LENGTH_LONG).show();
                 Log.d("Status:", "Hello!");
                 text.setText("Hello Android!");
+				Log.d("Status:", "Hello!");
 
             }
         });
